@@ -1,7 +1,4 @@
 <HTML>
-<HEAD>
-<TITLE>Your Title Here</TITLE>
-</HEAD>
 <BODY>
 is a link to another nifty site
 <H1>This is a Header</H1>
