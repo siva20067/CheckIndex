@@ -1,6 +1,5 @@
 <HTML>
 <BODY>
-is a link to another nifty site
 <H1>This is a Header</H1>
 <H2>This is a Medium Header</H2>
 <P> This is a new paragraph!
